@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0076-minimum-window-substring) |
+| [0525-contiguous-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0567-permutation-in-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0525-contiguous-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0525-contiguous-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
