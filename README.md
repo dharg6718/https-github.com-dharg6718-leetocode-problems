@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0567-permutation-in-string) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -62,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
