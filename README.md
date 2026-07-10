@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0076-minimum-window-substring) |
 | [0525-contiguous-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0525-contiguous-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0118-pascals-triangle) |
