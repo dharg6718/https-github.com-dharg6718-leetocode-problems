@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0567-permutation-in-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
