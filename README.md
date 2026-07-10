@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0525-contiguous-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0525-contiguous-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0118-pascals-triangle) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
