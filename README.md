@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0149-max-points-on-a-line) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
