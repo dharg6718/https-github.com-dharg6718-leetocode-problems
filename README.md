@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0149-max-points-on-a-line) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0525-contiguous-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0118-pascals-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
