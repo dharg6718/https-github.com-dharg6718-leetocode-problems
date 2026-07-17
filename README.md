@@ -78,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0148-sort-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0525-contiguous-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -190,4 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3312-sorted-gcd-pair-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
