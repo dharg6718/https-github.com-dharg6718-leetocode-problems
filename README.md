@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0149-max-points-on-a-line) |
 | [0273-integer-to-english-words](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0273-integer-to-english-words) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0148-sort-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0525-contiguous-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
