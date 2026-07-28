@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1392-longest-happy-prefix) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -228,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
