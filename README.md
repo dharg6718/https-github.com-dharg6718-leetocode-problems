@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -314,4 +315,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1510-stone-game-iv) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
