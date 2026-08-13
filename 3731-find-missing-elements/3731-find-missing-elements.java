@@ -1,15 +1,39 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
-        List<Integer> result = new ArrayList<>();
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length-1;i++){
-            int curr = nums[i];
-            int next = nums[i+1];
 
-            for(int j=curr+1;j<next;j++){
-                result.add(j);
+        List<Integer> result = new ArrayList<>();
+
+        int min = nums[0];
+        int max = nums[0];
+
+        // Find minimum and maximum
+        for (int num : nums) {
+            if (num < min) {
+                min = num;
+            }
+
+            if (num > max) {
+                max = num;
             }
         }
+
+        // Check every number from min to max
+        for (int i = min; i <= max; i++) {
+
+            boolean found = false;
+
+            for (int num : nums) {
+                if (num == i) {
+                    found = true;
+                    break;
+                }
+            }
+
+            if (!found) {
+                result.add(i);
+            }
+        }
+
         return result;
     }
 }
