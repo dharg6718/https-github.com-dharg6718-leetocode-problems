@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0165-compare-version-numbers) |
 | [0273-integer-to-english-words](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0273-integer-to-english-words) |
 | [0567-permutation-in-string](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0567-permutation-in-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0486-predict-the-winner) |
