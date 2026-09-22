@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0149-max-points-on-a-line) |
 | [0273-integer-to-english-words](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0486-predict-the-winner) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0118-pascals-triangle) |
 | [0149-max-points-on-a-line](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0149-max-points-on-a-line) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0073-set-matrix-zeroes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
