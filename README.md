@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1392-longest-happy-prefix) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1021-remove-outermost-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
