@@ -317,12 +317,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -444,10 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dharg6718/https-github.com-dharg6718-leetocode-problems/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
